@@ -114,7 +114,7 @@ class _HomePageState extends State<HomePage> {
           color: Colors.indigo,
           icon: Icons.edit,
           onTap: () {
-            Navigator.push(context, MaterialPageRoute(builder: (context) => UpdatePage(post.title, post.body)));
+            Navigator.push(context, MaterialPageRoute(builder: (context) => UpdatePage(title: post.title, body: post.body)));
           },
         ),
       ],

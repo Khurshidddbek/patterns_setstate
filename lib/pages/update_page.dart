@@ -7,8 +7,10 @@ import 'package:patterns_setstate/services/http_service.dart';
 import 'home_page.dart';
 
 class UpdatePage extends StatefulWidget {
+  static final String id = 'update_page';
+
   String title, body;
-  UpdatePage(this.title, this.body, {Key key}) : super(key: key);
+  UpdatePage({this.title, this.body, Key key}) : super(key: key);
 
   @override
   _UpdatePageState createState() => _UpdatePageState();
