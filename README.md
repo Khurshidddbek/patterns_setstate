@@ -6,11 +6,5 @@ patterns setstate
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Recording - iPhone 12 Pro Max - 2021-08-19 at 16 08 45](https://user-images.githubusercontent.com/78873641/130059073-d015b4a3-6676-4500-9fb2-211addda791b.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
